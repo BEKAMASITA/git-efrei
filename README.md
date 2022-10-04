@@ -20,5 +20,7 @@
 | git rm | --cached | | Retirer un ou plusieurs fichiers de l'historique de suivi de Git |
 | git restore | --staged | | Unstage un ou plusieurs fichiers |
 | git branch | -M | Créer ou renommer une branche de travail |
-| git checkout | -b | (créer si l'option -b a ete donnee et) se positioner 
+| git checkout | -b | (créer si n l'option -b a ete donnee et) se positioner 
 | git merge | -M | permet de fusioner l'historique  |
+
+jrbk
