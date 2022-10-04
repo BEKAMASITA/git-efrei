@@ -28,4 +28,4 @@ jjjjjjjjjjj
 
 ## Bonjour à tous 
 
-Test exercice 2.03.00.65
+Test exercice
